@@ -42,10 +42,10 @@
       <HintPath>packages\chilkat-x64.9.5.0.93\lib\net48\ChilkatDotNet48.dll</HintPath>
     </Reference>
     <Reference Include="Guna.UI2">
-      <HintPath>..\..\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\CSharpBeautifulThemes\Libraries\Guna.UI\Guna.UI2.dll</HintPath>
+      <HintPath>..\..\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\CSharpBeautifulThemes\Libraries\Guna.UI\Guna.UI2.dll</HintPath>
     </Reference>
     <Reference Include="MetroSuite 2.0">
-      <HintPath>..\..\Computer\Developing\Progetti\GabryB03 GitHub\Repositories\CSharpBeautifulThemes\Libraries\MetroSuite\MetroSuite 2.0.dll</HintPath>
+      <HintPath>..\..\Computer\Developing\Progetti\ZygoteCode GitHub\Repositories\CSharpBeautifulThemes\Libraries\MetroSuite\MetroSuite 2.0.dll</HintPath>
     </Reference>
     <Reference Include="System" />
     <Reference Include="System.Drawing" />
